@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Indra
 
-<!--
-**ikm4398/ikm4398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+💻 Working with React, Frappe, ERPNext  
+📍 Nepal
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- JavaScript / React
+- Node.js
+- Python / Frappe
+- MySQL / MongoDB
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikm4398&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- Email: ikm4398@gmail.com
+- LinkedIn: https://linkedin.com/in/ikm4398
