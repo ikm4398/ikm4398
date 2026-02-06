@@ -7,10 +7,9 @@
 ---
 
 ## 🔧 Skills
-- JavaScript / React
-- Node.js
-- Python / Frappe
-- MySQL / MongoDB
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Node](https://img.shields.io/badge/Node-green?logo=node.js)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 
 ---
 
