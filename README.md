@@ -1,96 +1,110 @@
-# Hi 👋 I'm Indra Kumar Mehta
+<div align="center">
+  <h1>Hi 👋 I'm Indra</h1>
+  <p>
+    <strong>Full Stack Developer</strong> | <strong>Frappe/ERPNext</strong> · <strong>Odoo</strong> · <strong>Python</strong> · <strong>Node.js</strong><br>
+    Building scalable enterprise systems, custom ERP modules, RESTful APIs, and real-world automation solutions.<br>
+    <em>First-Class Honours in Computer Systems Engineering</em> · Based in Biratnagar, Kosi Zone, Nepal
+  </p>
+</div>
 
-🚀 **Full-Stack Developer** | Python · Node.js · Frappe/ERPNext · Odoo  
-🇳🇵 Based in Biratnagar, Koshi Province, Nepal  
-🎓 BSc (Hons) Computer Systems Engineering – First-Class Honours, University of Sunderland (2021–2024)
+<div align="center">
+  <img src="https://github.com/ikm4398/ikm4398/raw/main/assets/header.gif" alt="Coding Animation" width="600"/>
+  <!-- Upload your preferred animated header GIF to your repo as assets/header.gif if you want a custom one -->
+</div>
 
-I turn ideas into reliable, scalable products — from real-time attendance systems and clinic software (24/7 uptime during the pandemic) to custom ERP modules that save businesses hours of manual work every day.
+## 🔧 Skills & Tech Stack
 
-Passionate about clean code, security-first architecture, DevOps, and solving real-world problems that impact people.
+<div align="center">
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Coding GIF" width="500"/>
+</div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ERPNext-1A1A40?style=for-the-badge&logo=frappe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-## 🔧 Tech Stack & Skills
+- **Core**: Full-Stack Development (Python, Node.js, React)
+- **ERP/Enterprise**: Frappe Framework, ERPNext Customization (DocTypes, Scripts, Workflows), Odoo Modules
+- **Backend/APIs**: RESTful APIs, Flask, Express.js, Real-time Systems
+- **DevOps & Tools**: Docker, CI/CD Pipelines, GitHub, Ubuntu Servers, Device/IoT Integration (Biometric, Attendance)
+- **Databases**: MariaDB, PostgreSQL, MongoDB, Firebase
+- **Other**: ChatGPT, Microsoft Copilot, VS Code, Teaching non-technical users
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+## 🚀 Professional Experience
 
-### ERP & Business Systems
-![ERPNext](https://img.shields.io/badge/ERPNext-1E88E5?logo=frappe&logoColor=white)
-![Frappe Framework](https://img.shields.io/badge/Frappe-4285F4?logo=frappe&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-875A7B?logo=odoo&logoColor=white)
+**Full Stack Developer**  
+**DESKGOO** — Biratnagar, Koshi Zone, Nepal  
+*March 2025 – Present (1+ year)*  
+- Building end-to-end web applications, custom ERP modules (Frappe/ERPNext & Odoo), RESTful APIs, DevOps pipelines  
+- Scalable backend systems with MongoDB, MariaDB, PostgreSQL  
+- Focus: Reliable, business-critical systems used daily
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+**Software Developer**  
+**Telemko** — Biratnagar  
+*July 2023 – March 2025 (1 year 9 months)*  
+- Full-cycle backend & ERP developer: Python/Flask + Node.js APIs, ERPNext customizations, IoT/biometric integrations  
+- Real-time tracking, automation servers, CI/CD pipelines (Docker, Ubuntu)  
+- Key achievements: Reduced manual workloads, enhanced performance & security
 
-### Other
-ChatGPT · Microsoft Copilot · VS Code · Tailwind CSS · Firebase · REST APIs · IoT & Biometric Device Integration
+**Software Developer**  
+**Nepal Software Laboratory Pvt Ltd** — Biratnagar  
+*August 2022 – July 2023 (1 year)*  
+- Modern web apps: React.js frontends, Node.js/Express backends, Tailwind CSS, Firebase  
+- Responsive UIs, REST APIs, full-stack features, GitHub collaboration
 
----
+**Assistant Manager & IT Support**  
+**Khushi Lab and Polyclinic** — Biratnagar  
+*April 2020 – July 2022 (2 years 4 months)*  
+- Managed clinical operations, staff coordination, patient scheduling during pandemic  
+- Full IT backbone: Hardware/software troubleshooting, LIS systems, backups, staff training (MS Office & internal tools)  
+- Ensured 24/7 uptime — critical for patient safety
 
-## 💼 Professional Experience
-
-- **Full Stack Developer** @ **DESKGOO**  
-  *March 2025 – Present*  
-  Building end-to-end web apps, custom ERPNext & Odoo modules, RESTful APIs, DevOps pipelines, scalable backends (MongoDB, MariaDB, PostgreSQL).
-
-- **Software Developer (Backend & ERP)** @ **Telemko**  
-  *July 2023 – March 2025* (1 yr 9 mo)  
-  Python/Flask + Node.js APIs, ERPNext customizations (doctype, workflows, scripts), device/IoT integrations, CI/CD (Docker), real-time systems.
-
-- **Software Developer** @ **Nepal Software Laboratory**  
-  *August 2022 – July 2023* (1 yr)  
-  React.js frontends, Node.js/Express backends, Tailwind CSS, Firebase, full-stack features.
-
-- **Assistant Manager & IT Support** @ **Khushi Lab and Polyclinic**  
-  *April 2020 – July 2022* (2 yr 4 mo)  
-  Managed clinic operations + full IT (LIS systems, backups, hardware/software troubleshooting, staff training) during pandemic — ensured 24/7 uptime.
-
-- **Software Tester & Data Entry Assistant** @ **NITSOON Technology**  
-  *August 2019 – November 2019* (4 mo)  
-  Data cleaning in ERP & Excel + trained school staff on ERP usage.
-
----
+**Software Tester & Data Entry Assistant**  
+**NITSOON Technology** — Mirchaiya, Nepal  
+*August 2019 – November 2019 (4 months)*  
+- Data entry & cleaning in OnlineERPPro + Excel  
+- Tested ERP functionality, trained school staff on system usage
 
 ## 🎓 Education
 
 - **BSc (Hons) Computer Systems Engineering**  
-  University of Sunderland, UK  
-  2021 – 2024 · First-Class Honours
+  University of Sunderland, UK — 2021–2024  
+  *First-Class Honours*
 
 - **+2 (Computer Science)**  
-  Lord Buddha Secondary School, Biratnagar  
-  2016 – 2020
+  Lord Buddha Secondary School, Biratnagar — 2016–2020
 
-- **SLC**  
-  Sharada Higher Secondary School  
-  2006 – 2016
----
+- **SLC (School Level Certificate)**  
+  Sharada Higher Secondary School — 2006–2016
 
-## 🌟 What Drives Me
+## 🌟 Key Strengths & What Drives Me
 
-- Solving meaningful problems with code that lasts  
-- Clean architecture & security-first mindset  
-- Teaching non-technical people how to use powerful tools confidently  
-- Building systems businesses (and people) can rely on
+- Solving real problems with clean, maintainable, secure code  
+- Turning ideas into reliable products (real-time attendance, clinic systems, automation)  
+- ERP customization, API integration, performance optimization  
+- Patient teaching & hands-on support for non-technical users (teachers, admins, doctors)  
+- Passionate about technology that creates real human impact
 
----
+> “Write code that lasts, build systems businesses can rely on.”
 
-## 📫 Let's Connect
+## 📫 Let's Connect & Collaborate
 
 - **Email**: ikm4398@gmail.com  
 - **LinkedIn**: [linkedin.com/in/ikm4398](https://www.linkedin.com/in/ikm4398)  
-- **Mobile**: +977-9805337295 (Nepal)  
-- Open to **full-time**, **contract**, or **freelance** opportunities — especially ERPNext/Frappe, Odoo, full-stack Python/Node, or backend/API projects.
+- **Mobile**: +977-9805337295  
+- **Location**: Biratnagar, Koshi Zone, Nepal  
 
-Feel free to reach out — let's build something useful together! 🚀
+Open to **full-time**, **contract**, or **freelance** opportunities in:  
+Full-Stack Development · ERPNext / Frappe / Odoo Customization · Backend & APIs · Automation & DevOps  
+
+Feel free to reach out — let's build something meaningful together! 🚀
