@@ -75,17 +75,6 @@ ChatGPT · Microsoft Copilot · VS Code · Tailwind CSS · Firebase · REST APIs
 - **SLC**  
   Sharada Higher Secondary School  
   2006 – 2016
-
----
-
-## 📊 GitHub Stats
-
-![Indra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikm4398&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikm4398&layout=compact&theme=radical&hide_border=true)
-
-*(Note: Replace `ikm4398` with your actual GitHub username if different — stats will auto-update once public repos exist.)*
-
 ---
 
 ## 🌟 What Drives Me
