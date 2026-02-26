@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ikm4398/ikm4398/raw/main/assets/header.gif" alt="Coding Animation" width="100%"/>
+  <img src="https://github.com/ikm4398/ikm4398/raw/main/assets/header.gif" alt="Coding Animation" width="1200"/>
   <!-- Upload your preferred animated header GIF to your repo as assets/header.gif if you want a custom one -->
 </div>
 
