@@ -3,7 +3,7 @@
   <p>
     <strong>Full Stack Developer</strong> | <strong>Frappe/ERPNext</strong> · <strong>Odoo</strong> · <strong>Python</strong> · <strong>Node.js</strong><br>
     Building scalable enterprise systems, custom ERP modules, RESTful APIs, and real-world automation solutions.<br>
-    <em>First-Class Honours in Computer Systems Engineering</em> · Based in Biratnagar, Kosi Zone, Nepal
+    <em>First-Class Honours in Computer Systems Engineering</em> · Based in Kathmandu Vally, Bagmati, Nepal
   </p>
 </div>
 
@@ -54,7 +54,7 @@
 - **Email**: ikm4398@gmail.com  
 - **LinkedIn**: [linkedin.com/in/ikm4398](https://www.linkedin.com/in/ikm4398)  
 - **Mobile**: +977-9805337295  
-- **Location**: Biratnagar, Koshi Zone, Nepal  
+- **Location**: Lalitpur, Bagmati, Nepal  
 
 Open to **full-time**, **contract**, or **freelance** opportunities in:  
 Full-Stack Development · ERPNext / Frappe / Odoo Customization · Backend & APIs · Automation & DevOps  
